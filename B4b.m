@@ -208,3 +208,4 @@ exportgraphics(figPick,'B04_picture_with_picks.png','Resolution',300);
 % Save fit plot
 exportgraphics(figFit,'B04_tx_fit.png','Resolution',300);
 exportgraphics(figFit,'B04_tx_fit.pdf','ContentType','vector');
+
