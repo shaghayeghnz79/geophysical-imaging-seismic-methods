@@ -12,9 +12,6 @@ The project also includes two extended applications. One example demonstrates Hu
 
 Overall, this project combines seismic modeling, acquisition analysis, wavefield interpretation, refraction processing, and basic sensor-data analysis. It provides a practical introduction to how seismic waves interact with layered and heterogeneous media and how those effects can be interpreted from synthetic and measured data.
 
-## Repository Structure
-
-report_HW1.pdf contains the full written report with figures, equations, and discussion. If source code, scripts, or notebooks are added later, they can be organized into folders such as `src/`, `notebooks/`, `figures/`, and `data/` to keep the repository clean and reproducible.
 
 ## Author
 
